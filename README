@@ -1,0 +1,49 @@
+Legalese
+========
+
+I did not ask permission to put these sources here. The game Way of the Wicked is owned by Fire Mountain Games. They own the rights to about everything about the adventure path. Paizo owns a bunch of stuff on Pathfinder and Wizards of the Coast owns a lot of OGL stuff. See below for the boring stuff that is important!
+
+They did put it under the OGL though :)
+
+
+
+How to include use this
+=======================
+
+
+I don't know how to use git
+---------------------------
+
+1) Download the zipball at: https://github.com/allardhoeve/pcgen-wotw1/zipball/master
+2) Go to your PCGen dir
+3) Create the directory data/way_of_the_wicked
+4) Unzip your zipball there
+5) Open up PCGen
+6) At the sources selection, press Advanced, then add:
+  a) Paizo's Pathfinder RPG for Players - Advanced
+  b) Fire Mountain Games' Way of the Wicked campaign.
+
+Good to go!
+
+
+I know how to use git
+---------------------
+
+1) Go to your PCGen dir
+2) cd data
+3) git clone git://github.com/allardhoeve/pcgen-wotw1.git
+
+Continue at step 5 above.
+
+
+
+How to use this for your character
+==================================
+
+1) Do this stuff at character creation. It is hard to add the bonus skillpoints at later levels so I didn't.
+2) Did you do it at level 1? Do it at level 1.
+3) So create a new character with the sources loaded.
+4) Before you add the first class, go to Templates
+5) Add the Way of the Wicked Villain template to your character.
+6) Add the first level and all.
+7) Add your free Campaign trait to your character at Feats and Abilities -> Traits. (It helps to right-click on the drop-down header and sort on Source/Type).
